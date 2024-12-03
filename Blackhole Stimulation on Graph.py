@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Black hole simulation
-
-@author: Jonathan Peltier
-
-GitHub repository:
-https://github.com/Python-simulation/Black-hole-simulation-using-python/
-
 BlackHole class solving photons trajectories closed to a static black hole.
 Render the perceived image deformation by a black hole.
 Object-oriented programming version.
